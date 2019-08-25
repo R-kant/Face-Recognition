@@ -1,9 +1,9 @@
 # Face-Recognition
 A simple face recognition app built in Python using KNN
 
-## Algorithm Used
+# Algorithms Used
 - K nearest neighbors from scikit-learn. You can also use your own KNN implementation.
-
+- Used haar cascade classifier for face detection.
 # How does it work
 - First open "face_detect.py" it will ask for the name of the user whoose face is to be recognized.
 - It will then open the camera and will start taking samples of the face.
